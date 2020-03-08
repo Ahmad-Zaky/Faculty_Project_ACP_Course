@@ -1,4 +1,4 @@
-# Faculty_Project_ACP_Course
+# Faculty Project ACP Course
 
 > Here I tried to built a small Educational Management System using `structs` instead of `classes` as The course teach only Basics C++.
 
